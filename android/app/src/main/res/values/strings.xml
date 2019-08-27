@@ -1,0 +1,4 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">SWH19F5IsHE4qTni6kPxJsjuA9gor19SPiJlr</string>
+    <string name="app_name">igniteAndross</string>
+</resources>
