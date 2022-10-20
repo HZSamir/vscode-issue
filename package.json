@@ -67,7 +67,7 @@
     "react-native-modal-translucent": "^3.0.1",
     "react-native-permissions": "^1.2.0",
     "react-native-picker-select": "^6.3.0",
-    "react-native-reanimated": "^1.2.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-screens": "^1.0.0-alpha.23",
     "react-native-slider-custom": "https://github.com/emmanuellmota/react-native-slider",
     "react-native-spring-scrollview": "^2.0.22",
